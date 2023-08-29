@@ -1,0 +1,40 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Loki"
+    },
+    {
+      "id": 2,
+      "title": "Indiana Jones"
+    },
+    {
+      "id": 3,
+      "title": "Wandavision"
+    },
+    {
+      "id": 4,
+      "title": "Armageddon"
+    },
+    {
+      "id": 5,
+      "title": "Utolsó mohikán"
+    },
+    {
+      "id": 6,
+      "title": "Hajnali mentőakció"
+    },
+    {
+      "id": 7,
+      "title": "Dead Man"
+    },
+    {
+      "id": 8,
+      "title": "Public Enemies"
+    },
+    {
+      "id": 9,
+      "title": "Csupasz pisztoly 3"
+    }
+  ]
+}

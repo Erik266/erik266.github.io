@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "json:server":"json-server --watch db/movies.json"
+}

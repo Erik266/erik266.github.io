@@ -1,0 +1,204 @@
+{
+  "film": [
+    {
+      "id": "1",
+      "title": "Loki",
+      "saw": ""
+    },
+    {
+      "id": "2",
+      "title": "Wandavision",
+      "saw": ""
+    },
+    {
+      "id": "3",
+      "title": "Armageddon",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "4",
+      "title": "Utolsó mohikán",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "5",
+      "title": "Hajnali mentőakció",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "6",
+      "title": "Dead Man",
+      " ": " "
+    },
+    {
+      "id": "7",
+      "title": "Public Enemies",
+      " ": " "
+    },
+    {
+      "id": "8",
+      "title": "New Kids Turbo",
+      " ": " "
+    },
+    {
+      "id": "9",
+      "title": "Legendás állatok",
+      " ": " "
+    },
+    {
+      "id": "10",
+      "title": "Remény rabjai",
+      " ": " "
+    },
+    {
+      "id": "11",
+      "title": "Tökéletes trükk",
+      "saw": ""
+    },
+    {
+      "id": "12",
+      "title": "Prey",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "13",
+      "title": "A Grand Budapest hotel",
+      "saw": " "
+    },
+    {
+      "id": "14",
+      "title": "Halál a níluson",
+      "saw": " "
+    },
+    {
+      "id": "15",
+      "title": "Rezervátum kutyái",
+      "saw": " "
+    },
+    {
+      "id": "16",
+      "title": "The Leftovers",
+      "saw": " "
+    },
+    {
+      "id": "17",
+      "title": "Ivócimborák",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "18",
+      "title": "Fülledt utcák",
+      "saw": " "
+    },
+    {
+      "id": "19",
+      "title": "A kék szoba",
+      "saw": " "
+    },
+    {
+      "id": "20",
+      "title": "Swimming pool",
+      "saw": " "
+    },
+    {
+      "id": "21",
+      "title": "Bakelit",
+      "saw": " "
+    },
+    {
+      "id": "22",
+      "title": "Eiffel",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "23",
+      "title": "Visszajáró pénz",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "24",
+      "title": "Yellowstone",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "25",
+      "title": "Alice in borderlands",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "26",
+      "title": "28 nappal később",
+      "saw": " "
+    },
+    {
+      "id": "27",
+      "title": "Gilbert Grape",
+      "saw": " "
+    },
+    {
+      "id": "28",
+      "title": "First Love (Netflix)",
+      "saw": " "
+    },
+    {
+      "id": "29",
+      "title": "A kötéltánc",
+      "saw": " "
+    },
+    {
+      "id": "30",
+      "title": "Blue Mountain State",
+      "saw": " "
+    },
+    {
+      "id": "31",
+      "title": "Fury",
+      "saw": " "
+    },
+    {
+      "id": "32",
+      "title": "Tell me you love me",
+      "saw": " "
+    },
+    {
+      "id": "33",
+      "title": "Kaliforniai rémálom",
+      "saw": " "
+    },
+    {
+      "id": "34",
+      "title": "A fiúk nem sírnak",
+      "saw": " "
+    },
+    {
+      "id": "35",
+      "title": "A neon démon",
+      "saw": " "
+    },
+    {
+      "id": "36",
+      "title": "A nyelvtanárnő",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "37",
+      "title": "A tenger vadjai 2. - A zátony",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "38",
+      "title": "Másvilág",
+      "saw": " "
+    },
+    {
+      "id": "39",
+      "title": "Venom",
+      "saw": " "
+    },
+    {
+      "id": "40",
+      "title": "Silo",
+      "saw": " "
+    }
+  ]
+}
